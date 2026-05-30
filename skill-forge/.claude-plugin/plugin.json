@@ -4,14 +4,5 @@
   "description": "Sistema completo para criar, revisar, evoluir e avaliar skills do Claude Code com qualidade de producao.",
   "author": "Railla Lopes",
   "license": "MIT",
-  "homepage": "https://github.com/railla01/skills-railla",
-  "skills": [
-    "./SKILL.md",
-    "./skill-forge-plan/SKILL.md",
-    "./skill-forge-build/SKILL.md",
-    "./skill-forge-review/SKILL.md",
-    "./skill-forge-eval/SKILL.md",
-    "./skill-forge-evolve/SKILL.md",
-    "./skill-forge-benchmark/SKILL.md"
-  ]
+  "homepage": "https://github.com/railla01/skills-railla"
 }
