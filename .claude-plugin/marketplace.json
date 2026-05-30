@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "skills-railla",
   "owner": {
     "name": "Railla Lopes",
@@ -8,7 +8,7 @@
     {
       "name": "skill-forge",
       "source": "./skill-forge",
-      "description": "Sistema completo para criar, revisar, evoluir e avaliar skills do Claude Code com qualidade de produção."
+      "description": "Sistema completo para criar, revisar, evoluir e avaliar skills do Claude Code com qualidade de producao."
     }
   ]
 }
