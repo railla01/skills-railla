@@ -1,0 +1,15 @@
+{
+  "name": "skills-railla",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Railla Lopes",
+    "url": "https://github.com/railla01"
+  },
+  "plugins": [
+    {
+      "name": "skill-forge",
+      "source": "./skill-forge",
+      "description": "Sistema completo para criar, revisar, evoluir e avaliar skills do Claude Code com qualidade de producao."
+    }
+  ]
+}
