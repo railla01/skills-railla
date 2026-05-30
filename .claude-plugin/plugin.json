@@ -1,0 +1,8 @@
+{
+  "name": "skill-forge",
+  "version": "1.0.0",
+  "description": "Sistema completo para criar, revisar, evoluir e avaliar skills do Claude Code com qualidade de producao. Cobre o ciclo completo: planejamento, construcao, revisao, evolucao e benchmark.",
+  "author": "Railla Lopes",
+  "license": "MIT",
+  "homepage": "https://github.com/railla01/skills-railla"
+}
